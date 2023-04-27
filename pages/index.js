@@ -7,6 +7,7 @@ import Link from "next/link";
 export default function Home() {
 
   console.log("hello")
+  console.logh("hey btesting men");
   return (
     <>
     <Head>
