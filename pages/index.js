@@ -5,6 +5,8 @@ import Footer from '../comps/Footer';
 import Link from "next/link";
 
 export default function Home() {
+
+  console.log("hello")
   return (
     <>
     <Head>
